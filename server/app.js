@@ -13,6 +13,7 @@ const categoryRoute = require("./routers/categoryRouter");
 const tagRoute = require("./routers/tagRouter");
 
 const allowedOrigins = [
+  "https://mkhotami-warung.vercel.app",
   "https://mkhotamirais.my.id",
   "https://mkhotamirais.github.io",
   "https://mkhotami.vercel.app",
